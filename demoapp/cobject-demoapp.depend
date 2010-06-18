@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1276786202 source:/home/mallard/Projects/cobject-demoapp/main.cpp
+1276786494 source:/home/mallard/Projects/cobject-demoapp/main.cpp
 	<iostream>
 	<meta.hpp>
 	<connection.hpp>
@@ -115,7 +115,7 @@
 	"util.hpp"
 	"fnwrap.hpp"
 
-1276778749 /home/mallard/Projects/cobject-client/connection.hpp
+1276856178 /home/mallard/Projects/cobject-client/connection.hpp
 	<vector>
 	<string>
 	<queue>
